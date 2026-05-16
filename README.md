@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/view?type=waving&color=00599C&height=200&section=header&text=Mohammed%20Jalamneh&fontColor=ffffff&fontSize=40" width="100%" />
-
-  ## 👋 Hello, I'm Mohammed Jalamneh
+  
+  ## 💻 Mohammed Jalamneh
   ### 🚀 Future Software Engineer
+  
 </div>
 
 ---
@@ -23,8 +23,8 @@
 ## 🛠️ Skills & Tools
 
 <div align="center">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </div>
 
 <br />
@@ -33,14 +33,6 @@
   <img src="https://img.shields.io/badge/Data%20Structures-Design-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/OOP-Core-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Algorithms-Problem%20Solving-orange?style=flat-square" />
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-jalamneh&show_icons=true&theme=dark&hide_border=true" />
 </div>
 
 ---
