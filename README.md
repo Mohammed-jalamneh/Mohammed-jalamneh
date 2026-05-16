@@ -40,7 +40,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-jalamneh&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-jalamneh&show_icons=true&theme=dark&hide_border=true" />
 </div>
 
 ---
