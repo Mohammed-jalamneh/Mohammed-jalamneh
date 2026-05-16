@@ -3,6 +3,8 @@
   ## 💻 Mohammed Jalamneh
   ### 🚀 Future Software Engineer
   
+  <img src="https://img.shields.io/badge/GPA-3.9%20%2F%204.0-gold?style=for-the-badge&logo=academic-cap&logoColor=black" />
+
 </div>
 
 ---
@@ -10,6 +12,7 @@
 ## 👨‍💻 About Me
 
 * 🎓 **Student at Faculty of Computer Science** (3rd Year)
+* 🏆 **Academic Excellence:** Maintaining a **3.9 / 4.0 GPA**.
 * 💡 **Passionate about** Software Architecture, System Design, and building Clean, Scalable Code.
 * 🏋️‍♂️ **Focused on** continuous self-improvement in both programming logic and physical fitness.
 
