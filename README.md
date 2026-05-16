@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/view?type=waving&color=00599C&height=200&section=header&text=Mohammed%20Jalamneh&fontColor=ffffff&fontSize=40" width="100%" />
 
   ## 👋 Hello, I'm Mohammed Jalamneh
-  ###  Future Software Engineer
+  ### 🚀 Future Software Engineer
 </div>
 
 ---
@@ -26,14 +26,13 @@
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
 </div>
 
 <br />
 
 <div align="center">
   <img src="https://img.shields.io/badge/Data%20Structures-Design-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/OOP-Encapsulation-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/OOP-Core-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Algorithms-Problem%20Solving-orange?style=flat-square" />
 </div>
 
