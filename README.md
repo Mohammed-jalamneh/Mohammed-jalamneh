@@ -1,7 +1,7 @@
 <div align="center">
   
   ## 💻 Mohammed Jalamneh
-  ### Software Engineer | Core Systems & Backend Developer
+  ###  Core Systems & Backend Developer
   
   <img src="https://img.shields.io/badge/Academic%20GPA-3.9%20%2F%204.0-yellow?style=for-the-badge&logo=academic-cap&logoColor=black" />
 
