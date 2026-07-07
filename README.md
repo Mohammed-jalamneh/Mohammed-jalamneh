@@ -30,27 +30,26 @@ I am a highly driven Software Engineer specializing in backend development, ente
 
 My technical foundation is deeply rooted in algorithmic optimization and architectural design, allowing me to bridge the gap between low-level system efficiency and full-stack product engineering. I approach software development with a product engineering mindset, ensuring that every database schema, API, or utility framework I build is robust and secure. Beyond coding, I maintain a strict discipline of physical fitness, reflecting a broader commitment to continuous self-improvement and high performance.
 
-**Open To:** Backend Engineering Roles | Systems Architecture | Enterprise C++/C# Development
+**Open To:** Backend Engineering Roles
 
 ---
 
 ## ⚙️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,c,sql,mysql,sqlite,git,github,visualstudio,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,github,visualstudio,vscode&theme=dark" />
 </div>
 
 <br/>
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | C++, C#, SQL, C |
+| **Languages** | C++, C#, SQL |
 | **Backend & Databases** | Core Systems, Relational DBs (ERD), MS SQL, Data Structures |
-| **Cloud, DevOps & Tooling** | Git, GitHub, Visual Studio, Enterprise Integration Patterns |
-
+| **Cloud, DevOps & Tooling** | GitHub, Visual Studio, VS Code |
 ---
 
-## 🧠 AI / ML & Advanced Engineering Expertise
+<br/>
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
@@ -79,30 +78,11 @@ A comprehensive enterprise-grade banking platform engineered using strict Object
 *Professional Explanation:* Architected a fully encapsulated banking system prioritizing clean code and modularity. Designed specific classes for client management and authentication to ensure strict separation of concerns and robust data validation.
 </details>
 
-<details>
-<summary><b>🚗 Enterprise Car Rental Database Engine</b></summary>
-<br/>
-A highly normalized relational database system designed to handle complex bookings, customer management, and fleet tracking.
-
-| Attribute | Details |
-| :--- | :--- |
-| **Stack** | SQL, Relational Database Design |
-| **Scale** | Multi-table relational schema (Customers, Bookings, Vehicles) |
-| **Performance** | Optimized query execution and indexing |
-| **Security** | Data integrity through strict foreign key constraints |
-| **Impact** | Streamlined rental operations and data retrieval |
-| **Repository** | [View Source](#) |
-
-*Professional Explanation:* Developed a complete Entity-Relationship Diagram (ERD) mapping out the operational lifecycle of a car rental business. Translated the logical design into an optimized SQL schema capable of handling high-volume transaction tracking.
-</details>
 
 ---
 
 ## 💼 Experience
 
-**Software Engineering Trainee**  
-*ProgrammingAdvices* | *2024 - Present*
-Advanced through an intensive, enterprise-grade software engineering roadmap under the supervision of industry experts.
 * Architected custom data structures, core utility frameworks, and database schemas.
 * Mastered memory management, OOP design patterns, and system logic optimization.
 * Developed fully functional backend systems simulating real-world business requirements.
@@ -116,7 +96,6 @@ Advanced through an intensive, enterprise-grade software engineering roadmap und
 | :--- | :--- |
 | **Academic Excellence** | Maintained a top-tier 3.9/4.0 GPA in the Faculty of Computer Science. |
 | **Roadmap Progression** | Successfully completed advanced modules (Courses 14-19) in the ProgrammingAdvices enterprise roadmap. |
-| **Industry Engagement** | Participated in professional Microsoft engineer sessions on AI agents and enterprise communities. |
 
 ---
 
@@ -134,7 +113,6 @@ Advanced through an intensive, enterprise-grade software engineering roadmap und
 
 <div align="center">
   <a href="https://codeforces.com/"><img src="https://img.shields.io/badge/Codeforces-Competitive_Programming-4A0E4E?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Algorithmic_Problem_Solving-7B2CBF?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </div>
 
 ---
