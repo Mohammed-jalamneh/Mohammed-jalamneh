@@ -30,7 +30,7 @@ I am a highly driven Software Engineer specializing in backend development, ente
 
 My technical foundation is deeply rooted in algorithmic optimization and architectural design, allowing me to bridge the gap between low-level system efficiency and full-stack product engineering. I approach software development with a product engineering mindset, ensuring that every database schema, API, or utility framework I build is robust and secure. Beyond coding, I maintain a strict discipline of physical fitness, reflecting a broader commitment to continuous self-improvement and high performance.
 
-**Open To:** Backend Engineering Roles
+**Open To:** Full Stack Internships
 
 ---
 
@@ -95,7 +95,7 @@ A comprehensive enterprise-grade banking platform engineered using strict Object
 | Recognition | Details |
 | :--- | :--- |
 | **Academic Excellence** | Maintained a top-tier 3.9/4.0 GPA in the Faculty of Computer Science. |
-| **Roadmap Progression** | Successfully completed advanced modules (Courses 14-19) in the ProgrammingAdvices enterprise roadmap. |
+| **Roadmap Progression** | Successfully completed advanced modules (Courses 1-19) in the ProgrammingAdvices roadmap. |
 
 ---
 
@@ -126,5 +126,5 @@ learning:
   - SQL DataBase
   - Problem Solving
 open_to:
-  - Backend Engineering Internships
-  - Open Source Collaborations
+  - Full  Stack Internships
+  
