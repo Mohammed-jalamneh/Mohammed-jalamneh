@@ -120,10 +120,10 @@ A comprehensive enterprise-grade banking platform engineered using strict Object
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-jalamneh&show_icons=true&theme=tokyonight&hide_border=true&ring_color=9D4EDD" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-jalamneh&theme=tokyonight&hide_border=true&ring=9D4EDD&fire=9D4EDD" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-jalamneh&show_icons=true&theme=tokyonight&hide_border=true&ring_color=9D4EDD&v=1" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-jalamneh&theme=tokyonight&hide_border=true&ring=9D4EDD&fire=9D4EDD&v=1" width="48%" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-jalamneh&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-jalamneh&layout=compact&theme=tokyonight&hide_border=true&v=1" width="60%" />
 </div>
 
 ---
@@ -131,7 +131,7 @@ A comprehensive enterprise-grade banking platform engineered using strict Object
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohammed-jalamneh&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammed-jalamneh&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&v=1" />
 </div>
 
 ---
@@ -139,10 +139,8 @@ A comprehensive enterprise-grade banking platform engineered using strict Object
 ## 📅 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-jalamneh&theme=tokyo-night&hide_border=true&color=9D4EDD" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammed-jalamneh&theme=tokyo-night&hide_border=true&color=9D4EDD&v=1" width="100%" />
 </div>
-
----
 
 
 ## 🎯 Current Focus
