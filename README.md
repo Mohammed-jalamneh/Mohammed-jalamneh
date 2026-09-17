@@ -11,15 +11,15 @@
   <br/><br/>
 
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=Web&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mohammed-jalamneh"><img src="https://img.shields.io/badge/LinkedIn-4A0E4E?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohammed-jalamneh-18931a3b6/"><img src="https://img.shields.io/badge/LinkedIn-4A0E4E?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mohammedjalamnehbs5@gmail.com"><img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Mohammed-jalamneh"><img src="https://img.shields.io/badge/GitHub-4A0E4E?style=for-the-badge&logo=github&logoColor=white" /></a>
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=mohammed-jalamneh&label=Profile%20Views&color=7B2CBF&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/mohammed-jalamneh?label=Followers&style=flat-square&color=4A0E4E" />
-  <img src="https://img.shields.io/github/stars/mohammed-jalamneh?style=flat-square&color=7B2CBF" />
+  <img src="https://komarev.com/ghpvc/?username=Mohammed-jalamneh&label=Profile%20Views&color=7B2CBF&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Mohammed-jalamneh?label=Followers&style=flat-square&color=4A0E4E" />
+  <img src="https://img.shields.io/github/stars/Mohammed-jalamneh?style=flat-square&color=7B2CBF" />
 </div>
 
 ---
@@ -47,6 +47,7 @@ My technical foundation is deeply rooted in algorithmic optimization and archite
 | **Languages** | C++, C#, SQL |
 | **Backend & Databases** | Core Systems, Relational DBs (ERD), MS SQL, Data Structures |
 | **Cloud, DevOps & Tooling** | GitHub, Visual Studio, VS Code |
+
 ---
 
 <br/>
@@ -77,7 +78,6 @@ A comprehensive enterprise-grade banking platform engineered using strict Object
 
 *Professional Explanation:* Architected a fully encapsulated banking system prioritizing clean code and modularity. Designed specific classes for client management and authentication to ensure strict separation of concerns and robust data validation.
 </details>
-
 
 ---
 
@@ -120,10 +120,10 @@ A comprehensive enterprise-grade banking platform engineered using strict Object
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-jalamneh&show_icons=true&theme=tokyonight&hide_border=true&ring_color=9D4EDD" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-jalamneh&theme=tokyonight&hide_border=true&ring=9D4EDD&fire=9D4EDD" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-jalamneh&show_icons=true&theme=tokyonight&hide_border=true&ring_color=9D4EDD" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-jalamneh&theme=tokyonight&hide_border=true&ring=9D4EDD&fire=9D4EDD" width="48%" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-jalamneh&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-jalamneh&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
 </div>
 
 ---
@@ -131,7 +131,7 @@ A comprehensive enterprise-grade banking platform engineered using strict Object
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammed-jalamneh&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohammed-jalamneh&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" />
 </div>
 
 ---
@@ -139,18 +139,11 @@ A comprehensive enterprise-grade banking platform engineered using strict Object
 ## 📅 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammed-jalamneh&theme=tokyo-night&hide_border=true&color=9D4EDD" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-jalamneh&theme=tokyo-night&hide_border=true&color=9D4EDD" width="100%" />
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mohammed-jalamneh/mohammed-jalamneh/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
----
 
 ## 🎯 Current Focus
 
