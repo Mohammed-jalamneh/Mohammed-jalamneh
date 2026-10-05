@@ -30,9 +30,58 @@ I am a highly driven Software Engineer specializing in backend development, ente
 
 My technical foundation is deeply rooted in algorithmic optimization and architectural design, allowing me to bridge the gap between low-level system efficiency and full-stack product engineering. I approach software development with a product engineering mindset, ensuring that every database schema, API, or utility framework I build is robust and secure. Beyond coding, I maintain a strict discipline of physical fitness, reflecting a broader commitment to continuous self-improvement and high performance.
 
-**Open To:** Full Stack Internships
+**Open To:** Backend Internships
+
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>🏢 Driving and Vehicle Licensing Department (DVLD) , Click to Show More...</b></summary>
+<br>
+
+An enterprise-grade desktop management system developed to automate licensing workflows and regulatory operations using a modular architecture.
+
+| Attribute | Details |
+| :--- | :--- |
+| **Stack** | C#, .NET Windows Forms, MS SQL Server, ADO.NET |
+| **Scale** | Multi-tier enterprise system (`DVLD`, `DVLD_Business`, `DVLD_DataAccess`) |
+| **Performance** | Optimized parameterized data access, indexed SQL queries, and efficient state binding |
+| **Security** | SHA-256 cryptographic password hashing, fail-fast validation, and role-based permissions |
+| **Impact** | Fully automated driver testing, license issuance, international permits, and detention tracking |
+| **Repository** | [View Source](https://github.com/Mohammed-jalamneh/DVLD) |
+
+*Professional Explanation:* Architected a production-ready system utilizing strict **3-Tier Architecture** to completely isolate presentation, business validation, and database operations. Implemented robust data integrity rules, appointment scheduling pipelines, and cryptographic authentication to ensure secure, scalable record management.
+
+</details>
+
+<details>
+<summary><b>🏦 Bank Management System , Click to Show More...</b></summary>
+<br/>
+A comprehensive enterprise-grade banking platform engineered using strict Object-Oriented Programming principles.
+
+| Attribute | Details |
+| :--- | :--- |
+| **Stack** | C++, Core OOP |
+| **Scale** | Multi-class architecture (`clsBankClient`, `clsLoginRegister`) |
+| **Performance** | Optimized memory allocation and file handling |
+| **Security** | Secure login/registration flows |
+| **Impact** | Established foundational banking logic and state management |
+| **Repository** | [View Source](#) |
+
+*Professional Explanation:* Architected a fully encapsulated banking system prioritizing clean code and modularity. Designed specific classes for client management and authentication to ensure strict separation of concerns and robust data validation.
+</details>
 
 ---
+
+## 🏆 Achievements
+
+| Recognition | Details |
+| :--- | :--- |
+| **Academic Excellence** | Maintained a top-tier 3.9/4.0 GPA in the Faculty of Computer Science. |
+| **Roadmap Progression** | Successfully completed advanced modules (Courses 1-20) in the ProgrammingAdvices roadmap. |
+
+---
+
 
 ## ⚙️ Tech Stack
 
@@ -60,24 +109,7 @@ My technical foundation is deeply rooted in algorithmic optimization and archite
 
 ---
 
-## 🚀 Featured Projects
 
-<details>
-<summary><b>🏦 Bank Management System</b></summary>
-<br/>
-A comprehensive enterprise-grade banking platform engineered using strict Object-Oriented Programming principles.
-
-| Attribute | Details |
-| :--- | :--- |
-| **Stack** | C++, Core OOP |
-| **Scale** | Multi-class architecture (`clsBankClient`, `clsLoginRegister`) |
-| **Performance** | Optimized memory allocation and file handling |
-| **Security** | Secure login/registration flows |
-| **Impact** | Established foundational banking logic and state management |
-| **Repository** | [View Source](#) |
-
-*Professional Explanation:* Architected a fully encapsulated banking system prioritizing clean code and modularity. Designed specific classes for client management and authentication to ensure strict separation of concerns and robust data validation.
-</details>
 
 ---
 
@@ -87,15 +119,6 @@ A comprehensive enterprise-grade banking platform engineered using strict Object
 * Mastered memory management, OOP design patterns, and system logic optimization.
 * Developed fully functional backend systems simulating real-world business requirements.
 * **Skills:** C++, C#, SQL, Enterprise Architecture, Problem Solving.
-
----
-
-## 🏆 Achievements
-
-| Recognition | Details |
-| :--- | :--- |
-| **Academic Excellence** | Maintained a top-tier 3.9/4.0 GPA in the Faculty of Computer Science. |
-| **Roadmap Progression** | Successfully completed advanced modules (Courses 1-19) in the ProgrammingAdvices roadmap. |
 
 ---
 
