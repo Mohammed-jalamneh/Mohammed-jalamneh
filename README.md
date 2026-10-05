@@ -83,31 +83,6 @@ A comprehensive enterprise-grade banking platform engineered using strict Object
 ---
 
 
-## ⚙️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,github,visualstudio,vscode&theme=dark" />
-</div>
-
-<br/>
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | C++, C#, SQL |
-| **Backend & Databases** | Core Systems, Relational DBs (ERD), MS SQL, Data Structures |
-| **Cloud, DevOps & Tooling** | GitHub, Visual Studio, VS Code |
-
----
-
-<br/>
-
-| Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| **System Architecture** | Advanced | Designing scalable ER diagrams and translating complex business requirements into robust OOP frameworks. |
-| **Algorithmic Optimization** | Intermediate | Time complexity analysis, competitive programming solutions (Prefix sums, string sorting) on platforms like Codeforces. |
-| **Core Utility Engines** | Advanced | Architecting custom data structures and core utility libraries from scratch without relying on external dependencies. |
-
----
 
 
 
@@ -119,16 +94,6 @@ A comprehensive enterprise-grade banking platform engineered using strict Object
 * Mastered memory management, OOP design patterns, and system logic optimization.
 * Developed fully functional backend systems simulating real-world business requirements.
 * **Skills:** C++, C#, SQL, Enterprise Architecture, Problem Solving.
-
----
-
-## 📜 Certifications
-
-<div align="center">
-  <img src="https://img.shields.io/badge/C++_Core_Concepts-ProgrammingAdvices-7B2CBF?style=for-the-badge&logo=cplusplus" />
-  <img src="https://img.shields.io/badge/OOP_Mastery-ProgrammingAdvices-4A0E4E?style=for-the-badge&logo=cplusplus" />
-  <img src="https://img.shields.io/badge/Database_Design-ProgrammingAdvices-7B2CBF?style=for-the-badge&logo=mysql" />
-</div>
 
 ---
 
