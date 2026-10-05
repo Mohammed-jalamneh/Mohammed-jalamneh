@@ -117,14 +117,5 @@ A comprehensive enterprise-grade banking platform engineered using strict Object
 
 ---
 
-## 🎯 Current Focus
 
-```yaml
-learning:
-  - Advanced C# Architecture
-  - c# .NET framwork & WindowsForms
-  - SQL DataBase
-  - Problem Solving
-open_to:
-  - Full  Stack Internships
   
