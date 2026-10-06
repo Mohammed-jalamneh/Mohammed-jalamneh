@@ -68,9 +68,13 @@ A comprehensive enterprise-grade banking platform engineered using strict Object
 | **Performance** | Optimized memory allocation and file handling |
 | **Security** | Secure login/registration flows |
 | **Impact** | Established foundational banking logic and state management |
-| **Repository** | [View Source](#) |
+| **Repository** | [View Source](https://github.com/Mohammed-jalamneh/BankSystem) |
 
 *Professional Explanation:* Architected a fully encapsulated banking system prioritizing clean code and modularity. Designed specific classes for client management and authentication to ensure strict separation of concerns and robust data validation.
+
+<img width="16000" height="4051" alt="BankSystem-architecture" src="https://github.com/user-attachments/assets/a225aed5-286b-48e1-baa9-3d0f20404438" />
+
+
 </details>
 
 ---
