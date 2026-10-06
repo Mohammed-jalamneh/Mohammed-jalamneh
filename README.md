@@ -52,6 +52,8 @@ An enterprise-grade desktop management system developed to automate licensing wo
 
 *Professional Explanation:* Architected a production-ready system utilizing strict **3-Tier Architecture** to completely isolate presentation, business validation, and database operations. Implemented robust data integrity rules, appointment scheduling pipelines, and cryptographic authentication to ensure secure, scalable record management.
 
+<img width="9621" height="8577" alt="dvld-architecture" src="https://github.com/user-attachments/assets/021620ed-2113-4442-ba29-8ebb706772d8" />
+
 </details>
 
 <details>
