@@ -26,12 +26,16 @@
 
 ## 👨‍💻 About Me
 
-I am a highly driven Software Engineer specializing in backend development, enterprise architecture, and building core systems from the ground up. Currently maintaining a top-tier 3.9 GPA as a 3rd-year Computer Science student, I engineer highly performant solutions with a strict focus on Object-Oriented Programming (OOP), memory management, and clean, scalable logic. 
+I am a Software Engineer and 3rd-year Computer Science student at **Al-Balqa Applied University (BAU)**, maintaining a **3.9/4.0 GPA**. My core focus is on **.NET Backend Development**, system architecture, and building production-grade enterprise software with clean OOP principles and robust database design.
 
-My technical foundation is deeply rooted in algorithmic optimization and architectural design, allowing me to bridge the gap between low-level system efficiency and full-stack product engineering. I approach software development with a product engineering mindset, ensuring that every database schema, API, or utility framework I build is robust and secure. Beyond coding, I maintain a strict discipline of physical fitness, reflecting a broader commitment to continuous self-improvement and high performance.
+### 🎯 Key Strengths & Technical Focus:
+- **Core .NET & Architecture:** Multi-tier architectural patterns, Clean OOP, WinForms/WPF, Background & Windows Services, and asynchronous programming.
+- **Relational Databases & Performance:** Deep SQL Server internals, advanced T-SQL, ACID transaction management, stored procedures, and schema normalization.
+- **Problem Solving & Systems:** Advanced algorithms, algorithmic data structures, complexity analysis ($O(n)$ optimization), and writing low-overhead code.
 
-**Open To:** Backend Internships
+**Open To:** .NET / Backend Developer Roles & Internships
 
+---
 
 ## 🚀 Featured Projects
 
@@ -52,13 +56,14 @@ An enterprise-grade desktop management system developed to automate licensing wo
 
 *Professional Explanation:* Architected a production-ready system utilizing strict **3-Tier Architecture** to completely isolate presentation, business validation, and database operations. Implemented robust data integrity rules, appointment scheduling pipelines, and cryptographic authentication to ensure secure, scalable record management.
 
-<img width="9621" height="8577" alt="dvld-architecture" src="https://github.com/user-attachments/assets/021620ed-2113-4442-ba29-8ebb706772d8" />
+<img width="100%" alt="dvld-architecture" src="https://github.com/user-attachments/assets/021620ed-2113-4442-ba29-8ebb706772d8" />
 
 </details>
 
 <details>
 <summary><b>🏦 Bank Management System , Click to Show More...</b></summary>
 <br/>
+
 A comprehensive enterprise-grade banking platform engineered using strict Object-Oriented Programming principles.
 
 | Attribute | Details |
@@ -72,10 +77,18 @@ A comprehensive enterprise-grade banking platform engineered using strict Object
 
 *Professional Explanation:* Architected a fully encapsulated banking system prioritizing clean code and modularity. Designed specific classes for client management and authentication to ensure strict separation of concerns and robust data validation.
 
-<img width="16000" height="4051" alt="BankSystem-architecture" src="https://github.com/user-attachments/assets/a225aed5-286b-48e1-baa9-3d0f20404438" />
-
+<img width="100%" alt="BankSystem-architecture" src="https://github.com/user-attachments/assets/a225aed5-286b-48e1-baa9-3d0f20404438" />
 
 </details>
+
+---
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Mohammed-jalamneh&theme=dark&hide_border=false&border_radius=5&fire=EB8C00&ring=EB8C00&currStreakLabel=EB8C00" alt="GitHub Streak" width="49%" />
+  <br/><br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mohammed-jalamneh&layout=compact&theme=dark&hide_border=false&border_radius=5&langs_count=6" alt="Most Used Languages" width="42%" />
+</div>
 
 ---
 
@@ -84,22 +97,16 @@ A comprehensive enterprise-grade banking platform engineered using strict Object
 | Recognition | Details |
 | :--- | :--- |
 | **Academic Excellence** | Maintained a top-tier 3.9/4.0 GPA in the Faculty of Computer Science. |
-| **Roadmap Progression** | Successfully completed advanced modules (Courses 1-20) in the ProgrammingAdvices roadmap. |
-
----
-
-
-
-
+| **Roadmap Progression** | Successfully completed advanced modules (Courses 1-24) in the ProgrammingAdvices roadmap. |
 
 ---
 
 ## 💼 Experience
 
-* Architected custom data structures, core utility frameworks, and database schemas.
-* Mastered memory management, OOP design patterns, and system logic optimization.
-* Developed fully functional backend systems simulating real-world business requirements.
-* **Skills:** C++, C#, SQL, Enterprise Architecture, Problem Solving.
+- Architected custom data structures, core utility frameworks, and database schemas.
+- Mastered memory management, OOP design patterns, and system logic optimization.
+- Developed fully functional backend systems simulating real-world business requirements.
+- **Skills:** C++, C#, SQL, Enterprise Architecture, Problem Solving.
 
 ---
 
@@ -109,7 +116,5 @@ A comprehensive enterprise-grade banking platform engineered using strict Object
   <a href="https://codeforces.com/"><img src="https://img.shields.io/badge/Codeforces-Competitive_Programming-4A0E4E?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </div>
 
----
 
 
-  
